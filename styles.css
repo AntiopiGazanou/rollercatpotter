@@ -1,0 +1,12 @@
+body{
+  background-color: orange;
+  text-align: center;
+  color: white;
+}
+
+h1:hover{
+
+  color: magenta;
+  box-shadow: 3s color linear;
+  font-size: 30px;
+}
